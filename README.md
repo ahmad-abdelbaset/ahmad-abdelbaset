@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ahmad-abdelbaset from Jerusalem
 - 👀 I’m interested in Software
 - 🌱 I’m currently learning Python and Data Sicence
-- 📫 How to reach me: ahmad.abdelbaset@outlook.com
+- 📫 How to reach me: https://ahmadabdelbaset.com/contact
 
 <!---
 ahmad-abdelbaset/ahmad-abdelbaset is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
